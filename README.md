@@ -43,3 +43,7 @@ The game demonstrates how shared behavior (falling movement) can be defined in a
 ## 📌 Purpose
 
 Originally created for a programming course project, this game is now part of my GitHub portfolio to demonstrate understanding of object types, prototypes, and interactive canvas-based animation.
+
+## 📷 Preview
+<img width="1207" height="1037" alt="image" src="https://github.com/user-attachments/assets/191ad8e1-5cbd-4284-9cf2-49db08d9694e" />
+
